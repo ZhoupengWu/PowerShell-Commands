@@ -18,7 +18,7 @@
    .\name_file.ps1
    ```
 
-## ⚠ Disclaimer
+## ⚠️ Disclaimer
 
 #### THESE SCRIPTS WORK IN <u>WINDOWS</u>. IF YOU WANT TO USE IN LINUX/UNIX OR MACOS, GO HERE [LINUX/UNIX AND MACOS](https://github.com/ZhoupengWu/Bash-Commands)
 
